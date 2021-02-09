@@ -12,7 +12,7 @@ il existe des outils pour vous simplifier la vie ! Comme par exemple  le framewo
 
 # Playground
 
-Vous devez reproduire les templates qui se trouvent dans le dossier templates. Une page html par template. N'hésitez pas à utiliser abondamment la documentation bootstrap.
+Vous devez reproduire les @templates qui se trouvent dans le dossier @templates. Une page html par template. N'hésitez pas à utiliser abondamment la documentation bootstrap.
 
 Note :
 Pour inclure bootstrap dans vos pages, privéligiez le CDN.
@@ -32,15 +32,15 @@ Pour se faire :
 <i class="far fa-smile"></i>
 ```
 
-![smiley-grid](./templates/smiley-grid.png)
+![smiley-grid](./@templates/smiley-grid.png)
 
 # Grid with wrapper
 
-![Grid wrapper](./templates/grid-wrapper.png)
+![Grid wrapper](./@templates/grid-wrapper.png)
 
 # Full page
 
-![Full page](./templates/full.png)
+![Full page](./@templates/full.png)
 
 # Ressources
 
